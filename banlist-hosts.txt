@@ -2017,7 +2017,6 @@
 4.221.162.168|pve01
 4.224.40.94|ubuntu-8gb-fsn1-2
 42.4.60.98|froxlor
-42.4.60.98|ubuntu-8gb-fsn1-2
 42.51.42.209|ubuntu-8gb-fsn1-2
 42.81.4.42|ubuntu-8gb-fsn1-2
 42.96.19.37|ubuntu-8gb-fsn1-2
