@@ -1067,7 +1067,6 @@
 172.94.9.156|froxlor
 172.94.9.202|froxlor
 172.96.182.111|ubuntu-8gb-fsn1-2
-173.10.13.18|ubuntu-8gb-fsn1-2
 173.10.13.21|ubuntu-8gb-fsn1-2
 173.185.74.18|pve02
 173.249.50.59|ubuntu-8gb-fsn1-2
@@ -2039,6 +2038,7 @@
 42.4.60.98|froxlor
 42.4.60.98|ubuntu-8gb-fsn1-2
 42.51.42.209|ubuntu-8gb-fsn1-2
+42.96.19.37|ubuntu-8gb-fsn1-2
 42.96.43.148|pve01
 43.110.36.210|ubuntu-8gb-fsn1-2
 43.128.40.63|froxlor
