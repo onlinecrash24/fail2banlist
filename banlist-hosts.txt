@@ -1749,7 +1749,6 @@
 45.15.225.137|FROXHB
 45.153.34.114|ubuntu-8gb-fsn1-2
 45.153.34.205|froxlor
-45.153.34.205|ubuntu-8gb-fsn1-2
 45.156.24.224|ubuntu-8gb-fsn1-2
 45.156.87.253|ubuntu-8gb-fsn1-2
 45.156.87.254|ubuntu-8gb-fsn1-2
