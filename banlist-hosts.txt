@@ -1650,7 +1650,6 @@
 45.156.24.224|ubuntu-8gb-fsn1-2
 45.156.87.253|ubuntu-8gb-fsn1-2
 45.156.87.254|ubuntu-8gb-fsn1-2
-45.156.87.69|ubuntu-8gb-fsn1-2
 45.156.87.99|ubuntu-8gb-fsn1-2
 45.179.8.171|FROXHB
 45.187.193.10|pve01
