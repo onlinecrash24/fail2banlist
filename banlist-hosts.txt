@@ -2608,6 +2608,7 @@
 45.153.34.112|ubuntu-8gb-fsn1-2
 45.153.34.114|ubuntu-8gb-fsn1-2
 45.153.34.47|froxlor
+45.153.34.97|ubuntu-8gb-fsn1-2
 45.156.128.15|pbs1
 45.156.128.5|froxlor
 45.156.129.186|ubuntu-8gb-fsn1-2
