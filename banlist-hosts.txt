@@ -3433,7 +3433,6 @@
 62.210.36.194|ubuntu-8gb-fsn1-2
 62.210.38.102|froxlor
 62.238.18.27|froxlor
-62.54.176.203|ubuntu-8gb-fsn1-2
 62.60.130.12|froxlor
 62.60.130.186|froxlor
 62.60.130.226|FROXHB
