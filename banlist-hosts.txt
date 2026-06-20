@@ -1723,6 +1723,7 @@
 200.155.66.2|FROXUB
 200.155.66.2|ubuntu-8gb-fsn1-2
 200.175.61.207|ubuntu-8gb-fsn1-2
+200.196.50.91|pve01
 2001:b011:e60a:dbce:340d:bef9:f4b2:488b|froxlor
 200.29.173.201|pve01
 200.71.154.142|ubuntu-8gb-fsn1-2
