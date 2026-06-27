@@ -3380,7 +3380,6 @@
 91.92.40.48|ubuntu-8gb-fsn1-2
 91.92.40.49|ubuntu-8gb-fsn1-2
 91.92.40.4|froxlor
-91.92.40.4|pve01
 91.92.40.4|ubuntu-8gb-fsn1-2
 91.92.40.5|pbs1
 91.92.40.6|froxlor
