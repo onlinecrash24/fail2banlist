@@ -2561,6 +2561,7 @@
 91.92.40.151|ubuntu-8gb-fsn1-2
 91.92.40.171|ubuntu-8gb-fsn1-2
 91.92.40.176|froxlor
+91.92.40.176|pve02
 91.92.40.176|ubuntu-8gb-fsn1-2
 91.92.40.200|ubuntu-8gb-fsn1-2
 91.92.40.202|ubuntu-8gb-fsn1-2
