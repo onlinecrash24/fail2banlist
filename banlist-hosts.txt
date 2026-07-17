@@ -2743,6 +2743,7 @@
 91.92.42.172|ubuntu-8gb-fsn1-2
 91.92.42.61|ubuntu-8gb-fsn1-2
 91.92.42.87|ubuntu-8gb-fsn1-2
+91.92.47.120|pve01
 91.92.47.120|ubuntu-8gb-fsn1-2
 91.92.47.123|ubuntu-8gb-fsn1-2
 91.92.47.140|pbs1
