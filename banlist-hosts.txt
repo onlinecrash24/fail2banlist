@@ -3871,7 +3871,6 @@
 91.92.40.124|ubuntu-8gb-fsn1-2
 91.92.40.19|ubuntu-8gb-fsn1-2
 91.92.40.202|ubuntu-8gb-fsn1-2
-91.92.40.239|pve01
 91.92.40.31|ubuntu-8gb-fsn1-2
 91.92.40.47|ubuntu-8gb-fsn1-2
 91.92.40.48|ubuntu-8gb-fsn1-2
