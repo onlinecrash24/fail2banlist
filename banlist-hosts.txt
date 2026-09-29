@@ -245,6 +245,7 @@
 109.160.32.32|ubuntu-8gb-fsn1-2
 109.160.32.45|ubuntu-8gb-fsn1-2
 109.160.32.48|ubuntu-8gb-fsn1-2
+109.160.32.49|pve01
 109.160.32.66|ubuntu-8gb-fsn1-2
 109.160.32.91|ubuntu-8gb-fsn1-2
 109.160.32.93|ubuntu-8gb-fsn1-2
