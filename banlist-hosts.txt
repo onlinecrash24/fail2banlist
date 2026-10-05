@@ -2853,7 +2853,6 @@
 84.188.154.128|ubuntu-8gb-fsn1-2
 84.201.243.44|ubuntu-8gb-fsn1-2
 84.2.147.23|ubuntu-8gb-fsn1-2
-84.247.170.6|pve02
 84.254.97.72|ubuntu-8gb-fsn1-2
 84.76.87.143|ubuntu-8gb-fsn1-2
 84.86.64.46|ubuntu-8gb-fsn1-2
