@@ -2542,6 +2542,7 @@
 77.91.71.23|ubuntu-8gb-fsn1-2
 77.91.71.24|ubuntu-8gb-fsn1-2
 77.91.71.25|ubuntu-8gb-fsn1-2
+77.91.71.90|pve02
 77.91.71.90|ubuntu-8gb-fsn1-2
 77.91.71.91|ubuntu-8gb-fsn1-2
 77.91.71.92|ubuntu-8gb-fsn1-2
