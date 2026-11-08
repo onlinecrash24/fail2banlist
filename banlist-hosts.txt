@@ -1706,9 +1706,9 @@
 62.234.155.44|pbs1
 62.60.130.226|FROXHB
 62.60.130.226|FROXUB
-62.60.130.238|froxlor
 62.60.130.23|FROXHB
 62.60.130.23|FROXUB
+62.60.130.238|froxlor
 62.60.130.253|froxlor
 62.60.130.59|FROXUB
 62.60.130.60|FROXHB
@@ -1793,6 +1793,7 @@
 77.239.124.43|ubuntu-8gb-fsn1-2
 77.239.124.47|ubuntu-8gb-fsn1-2
 77.239.124.48|ubuntu-8gb-fsn1-2
+77.239.124.50|ubuntu-8gb-fsn1-2
 77.239.124.65|ubuntu-8gb-fsn1-2
 77.239.124.70|ubuntu-8gb-fsn1-2
 77.239.124.75|ubuntu-8gb-fsn1-2
