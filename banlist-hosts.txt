@@ -461,8 +461,8 @@
 141.98.9.104|pbs1
 141.98.9.110|pbs1
 141.98.9.119|pbs1
-141.98.9.130|pbs1
 141.98.9.13|pbs1
+141.98.9.130|pbs1
 141.98.9.59|pbs1
 14.225.18.21|FROXUB
 14.225.2.125|FROXHB
@@ -475,6 +475,7 @@
 143.137.164.155|ubuntu-8gb-fsn1-2
 143.137.165.101|ubuntu-8gb-fsn1-2
 143.137.165.227|ubuntu-8gb-fsn1-2
+143.137.166.205|ubuntu-8gb-fsn1-2
 143.137.166.254|ubuntu-8gb-fsn1-2
 143.137.166.37|ubuntu-8gb-fsn1-2
 143.202.209.172|pbs1
@@ -587,9 +588,11 @@
 160.30.55.69|FROXHB
 161.0.28.25|ubuntu-8gb-fsn1-2
 161.0.28.94|ubuntu-8gb-fsn1-2
+161.0.29.190|ubuntu-8gb-fsn1-2
 161.0.29.203|ubuntu-8gb-fsn1-2
 161.0.29.25|ubuntu-8gb-fsn1-2
 161.0.29.44|ubuntu-8gb-fsn1-2
+161.0.29.87|ubuntu-8gb-fsn1-2
 161.0.29.96|ubuntu-8gb-fsn1-2
 161.0.29.98|ubuntu-8gb-fsn1-2
 161.0.30.3|ubuntu-8gb-fsn1-2
@@ -661,12 +664,16 @@
 169.58.41.61|froxlor
 169.58.67.217|pbs1
 170.168.6.27|FROXHB
+170.246.54.63|ubuntu-8gb-fsn1-2
 170.247.220.216|ubuntu-8gb-fsn1-2
+170.247.220.235|ubuntu-8gb-fsn1-2
 170.247.220.3|ubuntu-8gb-fsn1-2
 170.247.221.156|ubuntu-8gb-fsn1-2
 170.247.223.106|ubuntu-8gb-fsn1-2
 170.247.223.38|ubuntu-8gb-fsn1-2
 170.254.178.108|ubuntu-8gb-fsn1-2
+170.254.178.251|ubuntu-8gb-fsn1-2
+170.254.178.253|ubuntu-8gb-fsn1-2
 170.84.39.74|FROXUB
 171.104.143.176|ubuntu-8gb-fsn1-2
 171.213.135.78|pbs1
@@ -840,6 +847,7 @@
 186.139.251.57|pbs1
 186.179.14.144|ubuntu-8gb-fsn1-2
 186.179.14.31|ubuntu-8gb-fsn1-2
+186.179.14.84|ubuntu-8gb-fsn1-2
 186.179.39.149|ubuntu-8gb-fsn1-2
 186.179.39.208|ubuntu-8gb-fsn1-2
 186.179.47.39|ubuntu-8gb-fsn1-2
@@ -875,6 +883,7 @@
 189.203.163.10|pbs1
 189.45.16.27|froxlor
 18.97.5.120|pbs1
+190.123.209.119|ubuntu-8gb-fsn1-2
 190.123.209.222|ubuntu-8gb-fsn1-2
 190.123.209.5|ubuntu-8gb-fsn1-2
 190.128.171.14|pbs1
@@ -935,6 +944,7 @@
 193.33.237.193|ubuntu-8gb-fsn1-2
 193.33.237.24|ubuntu-8gb-fsn1-2
 193.33.237.56|ubuntu-8gb-fsn1-2
+193.34.72.222|ubuntu-8gb-fsn1-2
 193.34.72.9|ubuntu-8gb-fsn1-2
 193.34.73.70|ubuntu-8gb-fsn1-2
 193.34.74.111|ubuntu-8gb-fsn1-2
@@ -957,6 +967,7 @@
 194.58.39.46|FROXUB
 194.92.44.158|pbs1
 195.137.223.36|pbs1
+195.138.116.86|ubuntu-8gb-fsn1-2
 195.160.223.116|froxlor
 195.161.54.16|FROXUB
 195.178.110.15|FROXHB
@@ -1433,7 +1444,9 @@
 45.86.17.81|ubuntu-8gb-fsn1-2
 45.86.18.227|ubuntu-8gb-fsn1-2
 45.86.19.11|ubuntu-8gb-fsn1-2
+45.86.19.148|ubuntu-8gb-fsn1-2
 45.86.19.224|ubuntu-8gb-fsn1-2
+45.86.19.58|ubuntu-8gb-fsn1-2
 45.91.64.10|pbs1
 45.9.16.66|pbs1
 45.9.2.178|froxlor
@@ -1548,9 +1561,9 @@
 62.173.163.116|pbs1
 62.60.130.226|FROXHB
 62.60.130.226|FROXUB
-62.60.130.238|froxlor
 62.60.130.23|FROXHB
 62.60.130.23|FROXUB
+62.60.130.238|froxlor
 62.60.130.253|froxlor
 62.60.130.59|FROXUB
 62.60.130.60|FROXHB
@@ -1756,10 +1769,12 @@
 91.224.92.50|FROXHB
 91.224.92.50|FROXUB
 91.237.124.252|pbs1
+91.242.123.155|ubuntu-8gb-fsn1-2
 91.242.125.161|ubuntu-8gb-fsn1-2
 91.242.125.178|ubuntu-8gb-fsn1-2
 91.242.73.246|ubuntu-8gb-fsn1-2
 91.242.75.203|ubuntu-8gb-fsn1-2
+91.242.75.56|ubuntu-8gb-fsn1-2
 91.92.240.199|FROXUB
 91.92.240.224|pbs1
 91.92.240.38|pbs1
@@ -1801,6 +1816,7 @@
 94.102.49.125|ubuntu-8gb-fsn1-2
 94.112.254.202|pbs1
 94.131.64.204|ubuntu-8gb-fsn1-2
+94.131.64.36|ubuntu-8gb-fsn1-2
 94.131.64.91|ubuntu-8gb-fsn1-2
 94.155.124.98|pbs1
 94.177.160.163|FROXHB
@@ -1820,9 +1836,12 @@
 95.164.194.36|ubuntu-8gb-fsn1-2
 95.164.234.194|ubuntu-8gb-fsn1-2
 95.164.234.250|ubuntu-8gb-fsn1-2
+95.164.235.252|ubuntu-8gb-fsn1-2
+95.164.33.35|ubuntu-8gb-fsn1-2
 95.164.33.61|ubuntu-8gb-fsn1-2
 95.164.51.116|ubuntu-8gb-fsn1-2
 95.164.78.149|ubuntu-8gb-fsn1-2
+95.164.78.254|ubuntu-8gb-fsn1-2
 95.164.78.75|ubuntu-8gb-fsn1-2
 95.164.8.117|ubuntu-8gb-fsn1-2
 95.164.8.168|ubuntu-8gb-fsn1-2
