@@ -2325,7 +2325,6 @@
 72.215.46.32|ubuntu-8gb-fsn1-2
 72.219.215.122|ubuntu-8gb-fsn1-2
 72.253.251.3|ubuntu-8gb-fsn1-2
-73.204.88.19|pve02
 74.114.55.122|ubuntu-8gb-fsn1-2
 74.114.55.144|ubuntu-8gb-fsn1-2
 74.114.55.167|ubuntu-8gb-fsn1-2
